@@ -1,5 +1,5 @@
 #YelpCamp
-author: chenyang gao
+#author: chenyang gao
 
 ##Initial Setup
 * Add Landing Page
